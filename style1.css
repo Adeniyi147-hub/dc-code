@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.type{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+section{
+    border-radius: 5PX;
+    margin: 20PX;
+}
